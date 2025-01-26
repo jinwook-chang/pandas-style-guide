@@ -1,5 +1,3 @@
-Below is an **English version** of the **pandas Coding Style Guide**, including recommendations on preventing unintended side effects when modifying DataFrame objects. You can adapt and extend this guide to match your team’s specific needs and environment.
-
 ---
 
 # pandas Coding Style Guide
